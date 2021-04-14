@@ -6,7 +6,7 @@ This is a social media app that can upload images.
 I have completed extra credit #1, #2, and #3
 
 ## Screenshots
-<img src="./screenshot_app.jpg" alt="Screenshot of the app" height="500" />
+<img src="./screenshot_app.png" alt="Screenshot of the app" height="500" />
 
 
 ## Installation & Usage
