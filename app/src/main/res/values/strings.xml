@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dotify</string>
+    <string name="brief_info">%s - %s</string>
+</resources>
